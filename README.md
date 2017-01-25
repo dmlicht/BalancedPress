@@ -14,11 +14,12 @@ Theresa Lee
 Steven Ko  
 
 ## Contributing
-Think
+Think this would be a useful tool? We'd love your help building it.
 
 ## Under The Hood
 When you send a request the the BalancedPress server, it will:
-1. Download the webpage
+
+1. Download the webpage  
 2. Feed the text into a NLP model to calculate it's bias score
 3. Return bias information and general article information to the client.
 
