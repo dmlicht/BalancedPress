@@ -8,10 +8,10 @@ To get the bias of an article send a get request to:
     GET http://balancedpress.herokuapp.com/v1/bias/?url=<YOUR_ARTICLE_URL>
 
 ## Contributers
-David Lichtenberg [@dmlicht](https://github.com/dmlicht)
-Charles Leung [@LostMailman](https://github.com/LostMailman)
-Theresa Lee
-Steven Ko
+David Lichtenberg [@dmlicht](https://github.com/dmlicht)  
+Charles Leung [@LostMailman](https://github.com/LostMailman)  
+Theresa Lee  
+Steven Ko  
 
 ## Contributing
 Think
